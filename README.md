@@ -1,2 +1,2 @@
-# taxidriver
-# teste de sync mac > web vai github app
+taxidriver
+aplicação web de cadastro de motoristas, clientes e corridas. Versão teste para estagio.
